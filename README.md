@@ -1,4 +1,6 @@
 # gittest
 my first repository
--parag
--chivu
+***
+###members
+* parag
+* ***chivu***
