@@ -2,5 +2,5 @@
 my first repository
 ***
 ###members
-*parag
-*chivu
+1.parag
+2.chivu
